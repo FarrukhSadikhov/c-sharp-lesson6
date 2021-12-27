@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\method1\method1\bin\Debug\netcoreapp3.1\method1.exe
+C:\Users\Farrukh\source\repos\method1\method1\bin\Debug\netcoreapp3.1\method1.deps.json
+C:\Users\Farrukh\source\repos\method1\method1\bin\Debug\netcoreapp3.1\method1.runtimeconfig.json
+C:\Users\Farrukh\source\repos\method1\method1\bin\Debug\netcoreapp3.1\method1.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\method1\method1\bin\Debug\netcoreapp3.1\method1.dll
+C:\Users\Farrukh\source\repos\method1\method1\bin\Debug\netcoreapp3.1\method1.pdb
+C:\Users\Farrukh\source\repos\method1\method1\obj\Debug\netcoreapp3.1\method1.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\method1\method1\obj\Debug\netcoreapp3.1\method1.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\method1\method1\obj\Debug\netcoreapp3.1\method1.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\method1\method1\obj\Debug\netcoreapp3.1\method1.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\method1\method1\obj\Debug\netcoreapp3.1\method1.dll
+C:\Users\Farrukh\source\repos\method1\method1\obj\Debug\netcoreapp3.1\method1.pdb
+C:\Users\Farrukh\source\repos\method1\method1\obj\Debug\netcoreapp3.1\method1.genruntimeconfig.cache
